@@ -289,10 +289,8 @@ I am using `.* /etc/natas_webpass/natas11` to get the password.
 ---
 
 ## Progress Summary
-- **Completed Levels:** 0/35
-- **Current Level:** natas0
-- **Started:** [Date]
-- **Last Updated:** [Date]
+- **Completed Levels:** 10/35
+- **Current Level:** natas11
 
 ## General Notes
 - Remember to check page source, network requests, and cookies
